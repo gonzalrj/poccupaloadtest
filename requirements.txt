@@ -1,0 +1,3 @@
+locust==2.29.0
+gevent==24.2.1
+geventhttpclient==2.3.1
